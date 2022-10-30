@@ -9,10 +9,26 @@ public class Player : MonoBehaviour
     private Rigidbody rigidbodyComponent;
     public Transform groundCheckTransform;
     public LayerMask playerMask;
+    public string playername = "Harry";
+  
+
     // Start is called before the first frame update
     void Start()
     {
         rigidbodyComponent = GetComponent<Rigidbody>();
+        Debug.Log(playername);
+
+        int CharacterLevel = 32;
+        int NextSkillLevel = GenerateCharacter("Harry",
+    CharacterLevel);
+        Debug.Log(NextSkillLevel);
+        Debug.Log(GenerateCharacter("Maguire", CharacterLevel));
+    }
+    public int GenerateCharacter(string name, int level)
+    {
+        Debug.LogFormat("Character: {0} – Level: {1}", name, level);
+        return level += 5;
+
     }
 
     // Update is called once per frame
@@ -24,7 +40,9 @@ public class Player : MonoBehaviour
         }
 
         horizontalInput = Input.GetAxis("Horizontal");
+        
     }
+  
 
     private void FixedUpdate()
     {
@@ -49,4 +67,5 @@ public class Player : MonoBehaviour
             Destroy(other.gameObject);
         }
     }
+
 }
