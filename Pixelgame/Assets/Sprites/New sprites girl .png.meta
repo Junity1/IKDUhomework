@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6d91bc7c0a51b4409964639fbc341da7
+guid: 761e7530040d14c60bc20bd5958eb53a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,400 +105,337 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprites-removebg-preview_0
+      name: New sprites girl _0
       rect:
         serializedVersion: 2
-        x: 26
-        y: 239
-        width: 54
-        height: 96
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c29cd51df0591416b912fee94d4830ca
-      internalID: 1052327880
+      spriteID: ab1ccdd2c4a59437c9a463755d30b802
+      internalID: 999886503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_1
+      name: New sprites girl _1
       rect:
         serializedVersion: 2
-        x: 131
-        y: 239
-        width: 54
-        height: 96
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11d1c67ce8bff4d21a15319588a84b9d
-      internalID: 1332880406
+      spriteID: dc3696212da40440cb7692d1144506ca
+      internalID: 494729254
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_2
+      name: New sprites girl _2
       rect:
         serializedVersion: 2
-        x: 239
-        y: 242
-        width: 51
-        height: 90
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce687326ad34542f594b0a68fb780e95
-      internalID: -761730304
+      spriteID: 3aa2055ffaa51421090105b7c2556a03
+      internalID: 824203988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_3
+      name: New sprites girl _3
       rect:
         serializedVersion: 2
-        x: 344
-        y: 239
-        width: 53
-        height: 96
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62dc77428cfe44377b27be62706a6617
-      internalID: 595507202
+      spriteID: 2bce32bb2e5c2485297329f8eb4fb6aa
+      internalID: -820200916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_4
+      name: New sprites girl _4
       rect:
         serializedVersion: 2
-        x: 448
-        y: 239
-        width: 54
-        height: 96
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f69998dd653fa430eb4776651f2ba193
-      internalID: 478540530
+      spriteID: a06b796e1a60d4091b29cc23135de311
+      internalID: 1053556047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_5
+      name: New sprites girl _5
       rect:
         serializedVersion: 2
-        x: 553
-        y: 242
-        width: 51
-        height: 90
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a94d8d441d6774e8286fb0d8d12fd3f0
-      internalID: -1959912068
+      spriteID: 53c29f2eb68d84b2a94b776227314704
+      internalID: -899328486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_6
+      name: New sprites girl _6
       rect:
         serializedVersion: 2
-        x: 653
-        y: 237
-        width: 54
-        height: 95
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 441cc1a51cc65492fbf2780a732e20a5
-      internalID: -2143603583
+      spriteID: ae197cce6f04b42ac9e4f479127850a6
+      internalID: -512325479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_7
+      name: New sprites girl _7
       rect:
         serializedVersion: 2
-        x: 31
-        y: 140
-        width: 48
-        height: 90
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b193b9c9ef6644e9a4e61bc5695aa3f
-      internalID: 921510437
+      spriteID: 7a20d29cf0bea4e3fb882acac5be534b
+      internalID: -1450207293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_8
+      name: New sprites girl _8
       rect:
         serializedVersion: 2
-        x: 137
-        y: 140
-        width: 50
-        height: 90
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36a40288e559a4c2e90b56974e7aae82
-      internalID: -1967292357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites-removebg-preview_9
-      rect:
-        serializedVersion: 2
-        x: 242
-        y: 140
-        width: 42
-        height: 87
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 45e0a5fd581fc4c5aad97b4718dd43dc
-      internalID: -357113158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites-removebg-preview_10
-      rect:
-        serializedVersion: 2
-        x: 347
-        y: 142
-        width: 48
-        height: 88
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e559695603de5438885ed51ec7329747
-      internalID: 162053378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites-removebg-preview_11
-      rect:
-        serializedVersion: 2
-        x: 451
-        y: 145
-        width: 48
-        height: 85
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7674fbd4e66db4d5b8eaf4bde46a5c63
-      internalID: -1461306276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites-removebg-preview_12
-      rect:
-        serializedVersion: 2
-        x: 556
-        y: 140
-        width: 43
-        height: 87
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75c571b339956490c90e75de3d5de999
-      internalID: 1523438695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites-removebg-preview_13
-      rect:
-        serializedVersion: 2
-        x: 659
-        y: 140
-        width: 48
-        height: 90
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 554a049c4272741809c1a1bbbbde4278
-      internalID: -264729386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprites-removebg-preview_14
-      rect:
-        serializedVersion: 2
-        x: 28
+        x: 0
         y: 32
-        width: 51
-        height: 91
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be78a108ab22d4d79956b1dd0397c658
-      internalID: 1622971672
+      spriteID: 16be4efa3caa5425387c9e78b93f7435
+      internalID: 744668490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_15
+      name: New sprites girl _9
       rect:
         serializedVersion: 2
-        x: 134
+        x: 32
         y: 32
-        width: 51
-        height: 91
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee22cc10f73c147348bfa617d7f1f301
-      internalID: -538098208
+      spriteID: b6ea91a6bdd4846a98a08774745ad4c4
+      internalID: -224863090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_16
+      name: New sprites girl _10
       rect:
         serializedVersion: 2
-        x: 239
+        x: 64
         y: 32
-        width: 51
-        height: 91
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7a185c7d40f848e5b631a7f866e6612
-      internalID: 134699440
+      spriteID: b32df596fe83647a0b485635712bcffb
+      internalID: 277845367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_17
+      name: New sprites girl _11
       rect:
         serializedVersion: 2
-        x: 344
+        x: 96
         y: 32
-        width: 51
-        height: 91
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3de35af0862745739c76e1424b6dcd4
-      internalID: 1773183772
+      spriteID: 27e367db500be48669ef1454317b2b62
+      internalID: -897223934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites-removebg-preview_18
+      name: New sprites girl _12
       rect:
         serializedVersion: 2
-        x: 448
-        y: 32
-        width: 51
-        height: 91
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ede02d6b5fcb745de8924855c0a96d4c
-      internalID: -1680310583
+      spriteID: 93307bc89de4841dca18076a71241ee8
+      internalID: -1839719241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New sprites girl _13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d53b29b407c46ca940c742fa5728d4
+      internalID: 904455108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New sprites girl _14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a95cb160ea04762a18f96594c29a9b
+      internalID: -423277814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New sprites girl _15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ae2bf871b364d688c15104c405dc38
+      internalID: 1716332606
       vertices: []
       indices: 
       edges: []
@@ -514,25 +451,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      sprites-removebg-preview_15: -538098208
-      sprites-removebg-preview_8: -1967292357
-      sprites-removebg-preview_14: 1622971672
-      sprites-removebg-preview_9: -357113158
-      sprites-removebg-preview_12: 1523438695
-      sprites-removebg-preview_1: 1332880406
-      sprites-removebg-preview_5: -1959912068
-      sprites-removebg-preview_6: -2143603583
-      sprites-removebg-preview_16: 134699440
-      sprites-removebg-preview_17: 1773183772
-      sprites-removebg-preview_11: -1461306276
-      sprites-removebg-preview_10: 162053378
-      sprites-removebg-preview_3: 595507202
-      sprites-removebg-preview_18: -1680310583
-      sprites-removebg-preview_7: 921510437
-      sprites-removebg-preview_4: 478540530
-      sprites-removebg-preview_0: 1052327880
-      sprites-removebg-preview_2: -761730304
-      sprites-removebg-preview_13: -264729386
+      New sprites girl _5: -899328486
+      New sprites girl _9: -224863090
+      New sprites girl _1: 494729254
+      New sprites girl _3: -820200916
+      New sprites girl _11: -897223934
+      New sprites girl _8: 744668490
+      New sprites girl _0: 999886503
+      New sprites girl _13: 904455108
+      New sprites girl _4: 1053556047
+      New sprites girl _12: -1839719241
+      New sprites girl _14: -423277814
+      New sprites girl _15: 1716332606
+      New sprites girl _10: 277845367
+      New sprites girl _6: -512325479
+      New sprites girl _7: -1450207293
+      New sprites girl _2: 824203988
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
