@@ -90,7 +90,6 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
-    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Unit 1 Head
@@ -737,8 +736,7 @@ ScriptedImporter:
     - {x: 53, y: 54}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 375, y: 2}
-    spritePosition: {x: 401, y: 775}
+    uvTransform: {x: -26, y: -773}
   - name: Unit 1 Front Leg
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1688,8 +1686,7 @@ ScriptedImporter:
     - {x: 60, y: 61}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 217, y: 3}
-    spritePosition: {x: 388, y: 15}
+    uvTransform: {x: -171, y: -12}
   - name: Unit 1 Front Arm
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2699,8 +2696,7 @@ ScriptedImporter:
     - {x: 50, y: 51}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 607, y: 398}
-    spritePosition: {x: 152, y: 734}
+    uvTransform: {x: 455, y: -336}
   - name: Unit 1 Torso
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3541,8 +3537,7 @@ ScriptedImporter:
     - {x: 54, y: 55}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 606, y: 3}
-    spritePosition: {x: 474, y: 428}
+    uvTransform: {x: 132, y: -425}
   - name: Unit 1 Back Arm
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4552,8 +4547,7 @@ ScriptedImporter:
     - {x: 50, y: 51}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 607, y: 447}
-    spritePosition: {x: 505, y: 734}
+    uvTransform: {x: 102, y: -287}
   - name: Unit 1 Back Leg
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5532,8 +5526,7 @@ ScriptedImporter:
     - {x: 59, y: 60}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 2, y: 2}
-    spritePosition: {x: 480, y: 28}
+    uvTransform: {x: -478, y: -26}
   characterData:
     bones:
     - name: Lowerbody
